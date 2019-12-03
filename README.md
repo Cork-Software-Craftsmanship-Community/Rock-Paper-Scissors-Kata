@@ -43,7 +43,7 @@ Add Spock and Lizard to the equation:
 
 ### Stage 4
 Create a Game object that will simulate 2 players throwing shapes until
-one player wins the best of 7.
+one player wins the best of 5.
 
 Each round must be printed showing the shapes thrown by both players, the
-result of the round and a running total of the scores.
+result of the round (e.g. "Rock wins against Scissors", "Two Rocks is a tie", ...) and a running total of the scores.
